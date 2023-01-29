@@ -1,1 +1,1 @@
-my first commit
+loops conditions and parsing
