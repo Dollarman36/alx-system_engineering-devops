@@ -17,3 +17,5 @@ elif [ "$#" == 2 ]
 then
   domain_information "$1" "$2"
 fi
+
+info $1 $2
